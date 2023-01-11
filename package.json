@@ -1,0 +1,14 @@
+{
+  "name": "gekota",
+  "version": "1.0.0",
+  "description": "Gekota can convert PAM file to visual Flash animation, for Plants vs. Zombies 2.",
+  "main": "gekota.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "gm": "^1.23.1"
+  },
+  "author": "JiangNanGame",
+  "license": "GPL-3.0"
+}
