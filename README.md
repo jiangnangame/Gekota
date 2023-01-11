@@ -5,7 +5,7 @@ Here is a [video demonstration](https://www.bilibili.com/video/BV1Ya4y1Y7qz) for
 
 Gekota is the continuation of [ReadPam](https://github.com/jiangnangame/ReadPam), which decode binary PAM file to readable JSON file. Both ReadPam and Gekota are created in 2020 when I was a freshman in high school. With an unprecedented epidemic, I had some spare time to explore the way to decode Popcap's animation file format.
 
-#Contribute
+# Contribute
 
 Obviously, Gekota obviously was a immature project, because I just wanted to prove my programming skills through developing it. What's more, facing intense academic stress, I had no more time to perfect it then. 
 
