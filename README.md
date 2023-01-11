@@ -3,7 +3,7 @@ Gekota is a simple program written by JavaScript, which can convert PAM file to 
 
 Here is a [video demonstration](https://www.bilibili.com/video/BV1Ya4y1Y7qz) for Gekota in Bilibili. From this video, you can get an overview of how to use it.
 
-Gekota is the continuation of [ReadPam](https://github.com/jiangnangame/ReadPam), which decode binary PAM file to readable JSON file. Both ReadPam and Gekota are created in 2020 when I was a freshman in high school. With an unprecedented epidemic, I had some spare time to explore the way to decode Popcap's animation file format.
+Gekota is the continuation of [ReadPam](https://github.com/jiangnangame/ReadPam), which decode binary PAM file to readable JSON file. Both ReadPam and Gekota are created in 2020 when I was a freshman in high school. With an unprecedented epidemic, being free from going to school every day, I had some spare time to explore the way to decode Popcap's animation file format.
 
 # Contribute
 
