@@ -1,0 +1,2862 @@
+[
+                {
+                    "ax": 203,
+                    "ah": 160,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_103X125",
+                    "ay": 504,
+                    "time": "1462834364",
+                    "aw": 132,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17084,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_103x125"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 446,
+                    "ah": 181,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_120X141",
+                    "ay": 340,
+                    "time": "1462834364",
+                    "aw": 154,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17085,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_120x141"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 541,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_12X13",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 16,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17086,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_12x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 559,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_12X13_2",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 16,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17087,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_12x13_2"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 503,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X13",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 17,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17088,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_13x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 522,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X13_2",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 17,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17089,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_13x13_2"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 581,
+                    "ah": 18,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X14",
+                    "ay": 659,
+                    "time": "1462834364",
+                    "aw": 17,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17090,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_13x14"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 295,
+                    "ah": 13,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_14X10",
+                    "ay": 716,
+                    "time": "1462834364",
+                    "aw": 18,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17091,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_14x10"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 21,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_14X16",
+                    "ay": 289,
+                    "time": "1462834364",
+                    "aw": 18,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17092,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_14x16"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 19,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X15",
+                    "ay": 354,
+                    "time": "1462834364",
+                    "aw": 19,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17093,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_15x15"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 27,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X21",
+                    "ay": 221,
+                    "time": "1462834364",
+                    "aw": 19,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17094,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_15x21"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 34,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X26",
+                    "ay": 130,
+                    "time": "1462834364",
+                    "aw": 19,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17095,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_15x26"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 13,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X10",
+                    "ay": 375,
+                    "time": "1462834364",
+                    "aw": 22,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17096,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_17x10"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X13",
+                    "ay": 335,
+                    "time": "1462834364",
+                    "aw": 22,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17097,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_17x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 32,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X25",
+                    "ay": 96,
+                    "time": "1462834364",
+                    "aw": 22,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17098,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_17x25"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X13",
+                    "ay": 270,
+                    "time": "1462834364",
+                    "aw": 23,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17099,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_18x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 18,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X14",
+                    "ay": 250,
+                    "time": "1462834364",
+                    "aw": 23,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17100,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_18x14"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 26,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X20",
+                    "ay": 166,
+                    "time": "1462834364",
+                    "aw": 23,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17101,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_18x20"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 843,
+                    "ah": 22,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X17",
+                    "ay": 477,
+                    "time": "1462834364",
+                    "aw": 25,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17102,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_19x17"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 999,
+                    "ah": 22,
+                    "aflags": 13,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X17_2",
+                    "ay": 832,
+                    "time": "1462834364",
+                    "aw": 25,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17103,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_19x17_2"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 726,
+                    "ah": 27,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X21",
+                    "ay": 340,
+                    "time": "1462834364",
+                    "aw": 25,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17104,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_19x21"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1021,
+                    "ah": 2,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_1X1",
+                    "ay": 1,
+                    "time": "1462834364",
+                    "aw": 2,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17105,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_1x1"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 474,
+                    "ah": 13,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_21X10",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 27,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17106,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_21x10"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 399,
+                    "ah": 14,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_22X11",
+                    "ay": 504,
+                    "time": "1462834364",
+                    "aw": 28,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17107,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_22x11"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 949,
+                    "ah": 22,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_24X17",
+                    "ay": 946,
+                    "time": "1462834364",
+                    "aw": 31,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17108,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_24x17"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 582,
+                    "ah": 22,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_25X17",
+                    "ay": 812,
+                    "time": "1462834364",
+                    "aw": 32,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17109,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_25x17"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 793,
+                    "ah": 51,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_25X40",
+                    "ay": 920,
+                    "time": "1462834364",
+                    "aw": 32,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17110,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_25x40"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 717,
+                    "ah": 25,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_26X19",
+                    "ay": 932,
+                    "time": "1462834364",
+                    "aw": 34,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17111,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_26x19"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 415,
+                    "ah": 21,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_27X16",
+                    "ay": 942,
+                    "time": "1462834364",
+                    "aw": 35,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17112,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_27x16"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 753,
+                    "ah": 22,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_28X17",
+                    "ay": 932,
+                    "time": "1462834364",
+                    "aw": 36,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17113,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_28x17"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 337,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_293X263",
+                    "ay": 1,
+                    "time": "1462834364",
+                    "aw": 375,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17114,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_293x263"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 984,
+                    "ah": 32,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_29X25",
+                    "ay": 466,
+                    "time": "1462834364",
+                    "aw": 37,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17115,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_29x25"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 84,
+                    "ah": 28,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X22",
+                    "ay": 929,
+                    "time": "1462834364",
+                    "aw": 41,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17116,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_32x22"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 415,
+                    "ah": 40,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X31",
+                    "ay": 900,
+                    "time": "1462834364",
+                    "aw": 41,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17117,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_32x31"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 980,
+                    "ah": 53,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X41",
+                    "ay": 583,
+                    "time": "1462834364",
+                    "aw": 41,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17118,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_32x41"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 458,
+                    "ah": 36,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_33X28",
+                    "ay": 921,
+                    "time": "1462834364",
+                    "aw": 42,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17119,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_33x28"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 671,
+                    "ah": 32,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_34X25",
+                    "ay": 924,
+                    "time": "1462834364",
+                    "aw": 44,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17120,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_34x25"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 903,
+                    "ah": 53,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_36X41",
+                    "ay": 869,
+                    "time": "1462834364",
+                    "aw": 46,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17121,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_36x41"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 249,
+                    "ah": 23,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_37X18",
+                    "ay": 932,
+                    "time": "1462834364",
+                    "aw": 48,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17122,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_37x18"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 951,
+                    "ah": 34,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_39X26",
+                    "ay": 910,
+                    "time": "1462834364",
+                    "aw": 50,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17123,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_39x26"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 658,
+                    "ah": 49,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_39X38",
+                    "ay": 861,
+                    "time": "1462834364",
+                    "aw": 50,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17124,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_39x38"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 502,
+                    "ah": 22,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_40X17",
+                    "ay": 929,
+                    "time": "1462834364",
+                    "aw": 51,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17125,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_40x17"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 264,
+                    "ah": 39,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_40X30",
+                    "ay": 891,
+                    "time": "1462834364",
+                    "aw": 51,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17126,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_40x30"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 798,
+                    "ah": 44,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_41X34",
+                    "ay": 874,
+                    "time": "1462834364",
+                    "aw": 53,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17127,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_41x34"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 737,
+                    "ah": 32,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_42X25",
+                    "ay": 898,
+                    "time": "1462834364",
+                    "aw": 54,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17128,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_42x25"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 617,
+                    "ah": 73,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_42X57",
+                    "ay": 781,
+                    "time": "1462834364",
+                    "aw": 54,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17129,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_42x57"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 89,
+                    "ah": 60,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_43X47",
+                    "ay": 818,
+                    "time": "1462834364",
+                    "aw": 55,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17130,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_43x47"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 729,
+                    "ah": 21,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_44X16",
+                    "ay": 790,
+                    "time": "1462834364",
+                    "aw": 57,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17131,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_44x16"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 951,
+                    "ah": 39,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_48X30",
+                    "ay": 869,
+                    "time": "1462834364",
+                    "aw": 62,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17132,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_48x30"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 562,
+                    "ah": 23,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_54X18",
+                    "ay": 924,
+                    "time": "1462834364",
+                    "aw": 69,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17133,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_54x18"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 876,
+                    "ah": 55,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_56X43",
+                    "ay": 775,
+                    "time": "1462834364",
+                    "aw": 72,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17134,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_56x43"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 582,
+                    "ah": 40,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_58X31",
+                    "ay": 856,
+                    "time": "1462834364",
+                    "aw": 74,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17135,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_58x31"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 800,
+                    "ah": 57,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_58X44",
+                    "ay": 754,
+                    "time": "1462834364",
+                    "aw": 74,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17136,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_58x44"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 443,
+                    "ah": 51,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_65X40",
+                    "ay": 746,
+                    "time": "1462834364",
+                    "aw": 83,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17137,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_65x40"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 58,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_65X45",
+                    "ay": 736,
+                    "time": "1462834364",
+                    "aw": 83,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17138,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_65x45"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 354,
+                    "ah": 45,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_66X35",
+                    "ay": 790,
+                    "time": "1462834364",
+                    "aw": 85,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17139,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_66x35"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 41,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X32",
+                    "ay": 818,
+                    "time": "1462834364",
+                    "aw": 86,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17140,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_67x32"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 152,
+                    "ah": 42,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X33",
+                    "ay": 806,
+                    "time": "1462834364",
+                    "aw": 86,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17141,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_67x33"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 441,
+                    "ah": 42,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X33_2",
+                    "ay": 812,
+                    "time": "1462834364",
+                    "aw": 86,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17142,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_67x33_2"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 729,
+                    "ah": 41,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X32",
+                    "ay": 813,
+                    "time": "1462834364",
+                    "aw": 87,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17143,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_68x32"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 528,
+                    "ah": 46,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X36",
+                    "ay": 764,
+                    "time": "1462834364",
+                    "aw": 87,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17144,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_68x36"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 106,
+                    "ah": 57,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X44",
+                    "ay": 685,
+                    "time": "1462834364",
+                    "aw": 87,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17145,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_68x44"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 146,
+                    "ah": 36,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_69X28",
+                    "ay": 850,
+                    "time": "1462834364",
+                    "aw": 89,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17146,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_69x28"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 240,
+                    "ah": 39,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_69X30",
+                    "ay": 820,
+                    "time": "1462834364",
+                    "aw": 89,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17147,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_69x30"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 715,
+                    "ah": 8,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_6X6",
+                    "ay": 542,
+                    "time": "1462834364",
+                    "aw": 8,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17148,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_6x6"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 903,
+                    "ah": 35,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_73X27",
+                    "ay": 832,
+                    "time": "1462834364",
+                    "aw": 94,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17149,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_73x27"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 49,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_80X38",
+                    "ay": 685,
+                    "time": "1462834364",
+                    "aw": 103,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17150,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_80x38"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 873,
+                    "ah": 104,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_85X81",
+                    "ay": 390,
+                    "time": "1462834364",
+                    "aw": 109,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17151,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_85x81"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 461,
+                    "ah": 85,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_92X66",
+                    "ay": 659,
+                    "time": "1462834364",
+                    "aw": 118,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17152,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_92x66"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 315,
+                    "ah": 12,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_9X9",
+                    "ay": 716,
+                    "time": "1462834364",
+                    "aw": 12,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17153,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weasel",
+                        "zombie_iceage_weasel_9x9"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 474,
+                    "ah": 115,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_104X90",
+                    "ay": 542,
+                    "time": "1462834364",
+                    "aw": 133,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17154,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_104x90"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 337,
+                    "ah": 121,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_105X94",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 135,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17155,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_105x94"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 840,
+                    "ah": 78,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_108X61",
+                    "ay": 583,
+                    "time": "1462834364",
+                    "aw": 138,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17156,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_108x61"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 429,
+                    "ah": 13,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_10X10",
+                    "ay": 504,
+                    "time": "1462834365",
+                    "aw": 13,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17157,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_10x10"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 726,
+                    "ah": 85,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_113X66",
+                    "ay": 390,
+                    "time": "1462834365",
+                    "aw": 145,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17158,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_113x66"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 577,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_12X13",
+                    "ay": 523,
+                    "time": "1462834364",
+                    "aw": 16,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17159,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_12x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 800,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_12X13_2",
+                    "ay": 734,
+                    "time": "1462834364",
+                    "aw": 16,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17160,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_12x13_2"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 562,
+                    "ah": 10,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_135X8",
+                    "ay": 912,
+                    "time": "1462834364",
+                    "aw": 173,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17161,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_135x8"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 726,
+                    "ah": 19,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_13X15",
+                    "ay": 369,
+                    "time": "1462834364",
+                    "aw": 17,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17162,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_13x15"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 562,
+                    "ah": 21,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_13X16",
+                    "ay": 882,
+                    "time": "1462834364",
+                    "aw": 17,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17163,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_13x16"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 21,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_14X16",
+                    "ay": 312,
+                    "time": "1462834364",
+                    "aw": 18,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17164,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_14x16"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 343,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_156X268",
+                    "ay": 340,
+                    "time": "1462834365",
+                    "aw": 200,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17165,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_156x268"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 51,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_15X40",
+                    "ay": 1,
+                    "time": "1462834364",
+                    "aw": 19,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17166,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_15x40"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 40,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_17X31",
+                    "ay": 54,
+                    "time": "1462834364",
+                    "aw": 22,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17167,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_17x31"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 203,
+                    "ah": 162,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_188X126",
+                    "ay": 340,
+                    "time": "1462834365",
+                    "aw": 241,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17168,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_188x126"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1000,
+                    "ah": 25,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_18X19",
+                    "ay": 194,
+                    "time": "1462834365",
+                    "aw": 23,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17169,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_18x19"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 755,
+                    "ah": 387,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_190X302",
+                    "ay": 1,
+                    "time": "1462834365",
+                    "aw": 243,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17170,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_190x302"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1021,
+                    "ah": 2,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_1X1",
+                    "ay": 5,
+                    "time": "1462834365",
+                    "aw": 2,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17171,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_1x1"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 982,
+                    "ah": 21,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_20X16",
+                    "ay": 946,
+                    "time": "1462834365",
+                    "aw": 26,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17172,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_20x16"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 370,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_21X13",
+                    "ay": 504,
+                    "time": "1462834365",
+                    "aw": 27,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17173,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_21x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 127,
+                    "ah": 25,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_22X19",
+                    "ay": 929,
+                    "time": "1462834365",
+                    "aw": 28,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17174,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_22x19"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 54,
+                    "ah": 54,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_22X42",
+                    "ay": 923,
+                    "time": "1462834365",
+                    "aw": 28,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17175,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_22x42"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 317,
+                    "ah": 63,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_22X49",
+                    "ay": 896,
+                    "time": "1462834364",
+                    "aw": 28,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17176,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_22x49"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 726,
+                    "ah": 77,
+                    "aflags": 13,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_233X60",
+                    "ay": 504,
+                    "time": "1462834365",
+                    "aw": 298,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17177,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_233x60"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 162,
+                    "ah": 69,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_23X54",
+                    "ay": 888,
+                    "time": "1462834364",
+                    "aw": 30,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17178,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_23x54"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 337,
+                    "ah": 17,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_24X13",
+                    "ay": 504,
+                    "time": "1462834365",
+                    "aw": 31,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17179,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_24x13"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 381,
+                    "ah": 54,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_25X42",
+                    "ay": 900,
+                    "time": "1462834364",
+                    "aw": 32,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17180,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_25x42"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 347,
+                    "ah": 55,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_25X43",
+                    "ay": 896,
+                    "time": "1462834364",
+                    "aw": 32,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17181,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_25x43"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 984,
+                    "ah": 74,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_25X58",
+                    "ay": 390,
+                    "time": "1462834364",
+                    "aw": 32,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17182,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_25x58"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 633,
+                    "ah": 42,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_28X33",
+                    "ay": 924,
+                    "time": "1462834364",
+                    "aw": 36,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17183,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_28x33"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 378,
+                    "ah": 337,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_293X263",
+                    "ay": 1,
+                    "time": "1462834365",
+                    "aw": 375,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17184,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_293x263"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 980,
+                    "ah": 23,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_30X18",
+                    "ay": 638,
+                    "time": "1462834365",
+                    "aw": 39,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17185,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_30x18"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 295,
+                    "ah": 48,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_30X37",
+                    "ay": 666,
+                    "time": "1462834364",
+                    "aw": 39,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17186,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_30x37"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 827,
+                    "ah": 27,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_35X21",
+                    "ay": 926,
+                    "time": "1462834364",
+                    "aw": 45,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17187,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_35x21"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 901,
+                    "ah": 30,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_36X23",
+                    "ay": 924,
+                    "time": "1462834364",
+                    "aw": 46,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17188,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_36x23"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 853,
+                    "ah": 50,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_36X39",
+                    "ay": 874,
+                    "time": "1462834364",
+                    "aw": 46,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17189,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_36x39"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 58,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_36X45",
+                    "ay": 861,
+                    "time": "1462834364",
+                    "aw": 46,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17190,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_36x45"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 463,
+                    "ah": 63,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_36X49",
+                    "ay": 856,
+                    "time": "1462834364",
+                    "aw": 46,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17191,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_36x49"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 243,
+                    "ah": 59,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_37X46",
+                    "ay": 759,
+                    "time": "1462834364",
+                    "aw": 48,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17192,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_37x46"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 511,
+                    "ah": 45,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_38X35",
+                    "ay": 882,
+                    "time": "1462834365",
+                    "aw": 49,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17193,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_38x35"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 1,
+                    "ah": 32,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_40X25",
+                    "ay": 923,
+                    "time": "1462834364",
+                    "aw": 51,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17194,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_40x25"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 529,
+                    "ah": 68,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_40X53",
+                    "ay": 812,
+                    "time": "1462834364",
+                    "aw": 51,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17195,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_40x53"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 194,
+                    "ah": 30,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_41X23",
+                    "ay": 923,
+                    "time": "1462834364",
+                    "aw": 53,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17196,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_41x23"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 49,
+                    "ah": 41,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_42X32",
+                    "ay": 880,
+                    "time": "1462834364",
+                    "aw": 54,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17197,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_42x32"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 673,
+                    "ah": 69,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_42X54",
+                    "ay": 790,
+                    "time": "1462834365",
+                    "aw": 54,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17198,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_42x54"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 105,
+                    "ah": 39,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_43X30",
+                    "ay": 888,
+                    "time": "1462834364",
+                    "aw": 55,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17199,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_43x30"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 651,
+                    "ah": 99,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_43X77",
+                    "ay": 680,
+                    "time": "1462834365",
+                    "aw": 55,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17200,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_43x77"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 331,
+                    "ah": 57,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_44X44",
+                    "ay": 837,
+                    "time": "1462834364",
+                    "aw": 57,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17201,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_44x44"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 295,
+                    "ah": 87,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_44X68",
+                    "ay": 731,
+                    "time": "1462834365",
+                    "aw": 57,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17202,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_44x68"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 86,
+                    "ah": 72,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_50X56",
+                    "ay": 744,
+                    "time": "1462834365",
+                    "aw": 64,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17203,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_50x56"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 729,
+                    "ah": 40,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_52X31",
+                    "ay": 856,
+                    "time": "1462834364",
+                    "aw": 67,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17204,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_52x31"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 945,
+                    "ah": 110,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_52X86",
+                    "ay": 663,
+                    "time": "1462834365",
+                    "aw": 67,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17205,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_52x86"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 194,
+                    "ah": 30,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_53X23",
+                    "ay": 891,
+                    "time": "1462834365",
+                    "aw": 68,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17206,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_53x23"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 581,
+                    "ah": 82,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_53X64",
+                    "ay": 680,
+                    "time": "1462834365",
+                    "aw": 68,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17207,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_53x64"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 390,
+                    "ah": 42,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_55X33",
+                    "ay": 856,
+                    "time": "1462834365",
+                    "aw": 71,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17208,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_55x33"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 950,
+                    "ah": 55,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_56X43",
+                    "ay": 775,
+                    "time": "1462834364",
+                    "aw": 72,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17209,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_56x43"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 745,
+                    "ah": 7,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_5X5",
+                    "ay": 369,
+                    "time": "1462834365",
+                    "aw": 7,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17210,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_5x5"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 818,
+                    "ah": 40,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_65X31",
+                    "ay": 832,
+                    "time": "1462834365",
+                    "aw": 83,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17211,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_65x31"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 354,
+                    "ah": 57,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_68X44",
+                    "ay": 731,
+                    "time": "1462834365",
+                    "aw": 87,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17212,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_68x44"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 152,
+                    "ah": 45,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_69X35",
+                    "ay": 759,
+                    "time": "1462834364",
+                    "aw": 89,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17213,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_69x35"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 715,
+                    "ah": 8,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_6X6",
+                    "ay": 552,
+                    "time": "1462834364",
+                    "aw": 8,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17214,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_6x6"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 237,
+                    "ah": 28,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_70X22",
+                    "ay": 861,
+                    "time": "1462834365",
+                    "aw": 90,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17215,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_70x22"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 708,
+                    "ah": 54,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_70X42",
+                    "ay": 734,
+                    "time": "1462834364",
+                    "aw": 90,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17216,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_70x42"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 203,
+                    "ah": 91,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_70X71",
+                    "ay": 666,
+                    "time": "1462834364",
+                    "aw": 90,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17217,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_70x71"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 461,
+                    "ah": 9,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_7X7",
+                    "ay": 646,
+                    "time": "1462834364",
+                    "aw": 9,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17218,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_7x7"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 840,
+                    "ah": 89,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_80X69",
+                    "ay": 663,
+                    "time": "1462834364",
+                    "aw": 103,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17219,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_80x69"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 609,
+                    "ah": 136,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_81X106",
+                    "ay": 542,
+                    "time": "1462834364",
+                    "aw": 104,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17220,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_81x106"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 726,
+                    "ah": 19,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_90X15",
+                    "ay": 477,
+                    "time": "1462834364",
+                    "aw": 115,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17221,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_90x15"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 715,
+                    "ah": 55,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_94X43",
+                    "ay": 677,
+                    "time": "1462834365",
+                    "aw": 121,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17222,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_94x43"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 337,
+                    "ah": 83,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_95X65",
+                    "ay": 646,
+                    "time": "1462834364",
+                    "aw": 122,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17223,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_95x65"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 602,
+                    "ah": 200,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_95X156",
+                    "ay": 340,
+                    "time": "1462834364",
+                    "aw": 122,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17224,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_95x156"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 715,
+                    "ah": 92,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_96X72",
+                    "ay": 583,
+                    "time": "1462834364",
+                    "aw": 123,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17225,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_96x72"
+                    ],
+                    "type": "Image"
+                },
+                {
+                    "ax": 443,
+                    "ah": 12,
+                    "aflags": 15,
+                    "id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASELHOARDER_ZOMBIE_ICEAGE_WEASELHOARDER_9X9",
+                    "ay": 731,
+                    "time": "1462834364",
+                    "aw": 12,
+                    "parent": "ATLASIMAGE_ATLAS_ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00",
+                    "slot": 17226,
+                    "path": [
+                        "images",
+                        "1536",
+                        "full",
+                        "zombie",
+                        "zombie_iceage_weaselhoarder",
+                        "zombie_iceage_weaselhoarder_9x9"
+                    ],
+                    "type": "Image"
+                }
+            ]
