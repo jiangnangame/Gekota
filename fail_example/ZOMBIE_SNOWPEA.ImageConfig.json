@@ -1,0 +1,953 @@
+[
+        {
+          "type": "Image",
+          "slot": 12953,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_11X11",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_11x11"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 244,
+          "ay": 1,
+          "aw": 11,
+          "ah": 11,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12954,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_12X15",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_12x15"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 240,
+          "ay": 233,
+          "aw": 12,
+          "ah": 15,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12955,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_135X8",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_135x8"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 173,
+          "aw": 135,
+          "ah": 8,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12956,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_13X15",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_13x15"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 218,
+          "ay": 160,
+          "aw": 13,
+          "ah": 15,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12957,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_14X35",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_14x35"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 108,
+          "ay": 134,
+          "aw": 14,
+          "ah": 35,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12958,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_15X15",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_15x15"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 105,
+          "ay": 232,
+          "aw": 15,
+          "ah": 15,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12959,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_15X16",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_15x16"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 240,
+          "ay": 215,
+          "aw": 15,
+          "ah": 16,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12960,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_15X29",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_15x29"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 180,
+          "ay": 210,
+          "aw": 15,
+          "ah": 29,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12961,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_16X13",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_16x13"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 233,
+          "aw": 16,
+          "ah": 13,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12962,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_17X7",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_17x7"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 76,
+          "ay": 121,
+          "aw": 17,
+          "ah": 7,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12963,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_18X20",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_18x20"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 152,
+          "ay": 230,
+          "aw": 18,
+          "ah": 20,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12964,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_18X24",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_18x24"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 197,
+          "ay": 210,
+          "aw": 18,
+          "ah": 24,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12965,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_20X15",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_20x15"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 83,
+          "ay": 232,
+          "aw": 20,
+          "ah": 15,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12966,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_20X40",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_20x40"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 130,
+          "ay": 201,
+          "aw": 20,
+          "ah": 40,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12967,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_21X20",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_21x20"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 217,
+          "ay": 215,
+          "aw": 21,
+          "ah": 20,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12968,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_21X23",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_21x23"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 39,
+          "ay": 89,
+          "aw": 21,
+          "ah": 23,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12969,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_21X48",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_21x48"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 195,
+          "ay": 160,
+          "aw": 21,
+          "ah": 48,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12970,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_22X40",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_22x40"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 68,
+          "ay": 183,
+          "aw": 22,
+          "ah": 40,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12971,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_22X49",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_22x49"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 234,
+          "ay": 126,
+          "aw": 22,
+          "ah": 49,
+          "aflags": 13
+        },
+        {
+          "type": "Image",
+          "slot": 12972,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_23X17",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_23x17"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 33,
+          "ay": 225,
+          "aw": 23,
+          "ah": 17,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12973,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_23X17_2",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_23x17_2"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 58,
+          "ay": 225,
+          "aw": 23,
+          "ah": 17,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12974,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_23X40",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_23x40"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 43,
+          "ay": 183,
+          "aw": 23,
+          "ah": 40,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12975,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_24X58",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_24x58"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 101,
+          "ay": 74,
+          "aw": 24,
+          "ah": 58,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12976,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_26X27",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_26x27"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 152,
+          "ay": 201,
+          "aw": 26,
+          "ah": 27,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12977,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_26X36",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_26x36"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 218,
+          "ay": 177,
+          "aw": 26,
+          "ah": 36,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12978,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_28X33",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_28x33"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 136,
+          "aw": 28,
+          "ah": 33,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12979,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_28X46",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_28x46"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 165,
+          "ay": 126,
+          "aw": 28,
+          "ah": 46,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12980,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_30X21",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_30x21"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 210,
+          "aw": 30,
+          "ah": 21,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12981,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_30X22",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_30x22"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 92,
+          "ay": 208,
+          "aw": 30,
+          "ah": 22,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12982,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_30X37",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_30x37"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 76,
+          "ay": 134,
+          "aw": 30,
+          "ah": 37,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12983,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_35X39",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_35x39"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 39,
+          "ay": 121,
+          "aw": 35,
+          "ah": 39,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12984,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X23",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_36x23"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 92,
+          "ay": 183,
+          "aw": 36,
+          "ah": 23,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12985,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X36",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_36x36"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 127,
+          "ay": 125,
+          "aw": 36,
+          "ah": 36,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12986,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X45",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_36x45"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 63,
+          "ay": 74,
+          "aw": 36,
+          "ah": 45,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12987,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X45_2",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_36x45_2"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 89,
+          "aw": 36,
+          "ah": 45,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12988,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X47",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_36x47"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 206,
+          "ay": 1,
+          "aw": 36,
+          "ah": 47,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12989,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_37X32",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_37x32"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 195,
+          "ay": 126,
+          "aw": 37,
+          "ah": 32,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12990,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_37X45",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_37x45"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 206,
+          "ay": 50,
+          "aw": 37,
+          "ah": 45,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12991,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_40X25",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_40x25"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 183,
+          "aw": 40,
+          "ah": 25,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12992,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_43X25",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_43x25"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 138,
+          "ay": 174,
+          "aw": 43,
+          "ah": 25,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12993,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_51X27",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_51x27"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 195,
+          "ay": 97,
+          "aw": 51,
+          "ah": 27,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12994,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_58X57",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_58x57"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 135,
+          "ay": 66,
+          "aw": 58,
+          "ah": 57,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12995,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_5X8",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_5x8"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 245,
+          "ay": 59,
+          "aw": 5,
+          "ah": 8,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12996,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_60X86",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_60x86"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 1,
+          "ay": 1,
+          "aw": 60,
+          "ah": 86,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12997,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_69X63",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_69x63"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 135,
+          "ay": 1,
+          "aw": 69,
+          "ah": 63,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12998,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_6X6",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_6x6"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 195,
+          "ay": 66,
+          "aw": 6,
+          "ah": 6,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 12999,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_70X71",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_70x71"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 63,
+          "ay": 1,
+          "aw": 70,
+          "ah": 71,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 13000,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_7X12",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_7x12"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 245,
+          "ay": 45,
+          "aw": 7,
+          "ah": 12,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 13001,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_8X15",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_8x15"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 244,
+          "ay": 14,
+          "aw": 8,
+          "ah": 15,
+          "aflags": 15
+        },
+        {
+          "type": "Image",
+          "slot": 13002,
+          "id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_9X12",
+          "path": [
+            "images",
+            "1200",
+            "zombie3",
+            "zombie",
+            "zombie_snowpea",
+            "zombie_snowpea_9x12"
+          ],
+          "parent": "ATLASIMAGE_ATLAS_ZOMBIESNOWPEAGROUP_1200_00",
+          "ax": 244,
+          "ay": 31,
+          "aw": 9,
+          "ah": 12,
+          "aflags": 15
+        }
+      ]
+    
