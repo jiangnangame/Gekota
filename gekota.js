@@ -1,13 +1,13 @@
 "use strict";
 import fs from 'fs';
 import path from 'path';
-import SplitImage from './lib/SplitImage.mjs';
-import ReadPam from './lib/ReadPam.mjs';
-import CompileSymbols from './lib/CompileSymbols.mjs';
-import CompileXfl from './lib/CompileXfl.mjs';
+import SplitImage from './lib/SplitImage.js';
+import ReadPam from './lib/ReadPam.js';
+import CompileSymbols from './lib/CompileSymbols.js';
+import CompileXfl from './lib/CompileXfl.js';
 const control = {
-    canSplitImage: false,
-    canReadPam: false,
+    canSplitImage: true,
+    canReadPam: true,
     canCompileSymbols: true,
     canCompileXfl: true,
 };
